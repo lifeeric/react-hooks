@@ -1,0 +1,11 @@
+.App {
+    text-align: center;
+    color: #888;
+}
+
+.btn {
+    margin: 5px;
+    background: transparent;
+    border: 2px solid #888;
+    padding: 8px 16px;
+}
